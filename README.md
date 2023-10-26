@@ -1,5 +1,9 @@
 # Undergraduate_Projects
 
+## Abouts 
+Hello, I am Jiayi Niu, a student at the University of Virginia majoring in Mathematics and Applied Statistics. Throughout my academic journey, I have been deeply involved in various course projects that range from small-scale analyses to comprehensive research studies. Below is a brief overview of some of these projects, categorized by their scope and complexity.
+
+
 ## Projects
 
 ### STAT 3080 From Data to Knowledge Project
@@ -11,7 +15,7 @@
 - **Description**: 
 For the poster presentation, my group and I investigated a research question of interest and presented our findings using bulleted lists, tables, and graphs. The poster included sections on the research question, data summary, and analysis, which involved either multiple linear regression or logistic regression. We also incorporated at least three additional techniques like weighted least squares or external model validation to enhance our analysis. The poster concluded with interpretations of the results and suggestions for future research improvements.
 - **Technologies Used**: SAS
-- **[PDF Report]([Statistics_Project/STAT 3220 Final Project.pdf](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/STAT%203220%20Final%20Project.pdf))**
+- **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/STAT%203220%20Final%20Project.pdf))**
 
 ### STAT 3220 Intro to Regression Analysis Report
 - **Description**: 
