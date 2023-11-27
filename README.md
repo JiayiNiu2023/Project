@@ -38,4 +38,9 @@ Our group project is currently in progress and aims to identify the key financia
 - We employed regression analysis, including shrinkage methods (ridge and lasso regression) and tree-based methods (regression trees and random forests), to analyze a dataset from LendingClub. Our findings emphasized the significance of FICO scores in determining interest rates and the importance of various financial factors in predicting loan approval. This comprehensive study enhanced our understanding of financial risk assessment and predictive modeling in the lending industry.
 - **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/4630%20Milestone%204.pdf)**
 
-  
+## Copyright Notice
+
+© [2023], Jiayi Niu. All rights reserved.
+
+This repository contains original work and collaborative project work. Any content from this repository, including code, documents, and other materials, must not be copied, reproduced, or distributed without prior written consent. For permissions or inquiries, please contact nwb4td@virginia.edu.
+
