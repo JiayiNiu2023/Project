@@ -33,10 +33,13 @@ In our group project, we analyzed factors affecting putting accuracy in golf usi
 - **Description**: 
 Our group project is currently in progress and aims to identify the key financial factors affecting a borrower's eligibility to meet LendingClub.com's credit underwriting criteria. Utilizing logistic regression and linear discriminant analysis, we have found that FICO credit score, among other variables, is a significant predictor. Our improved logistic regression model has shown promising results with an AUC of 0.921. However, some variables like 'dti' and 'delinq.2yrs' have yielded unexpected outcomes, which we plan to investigate further. As the next steps in our analysis, we intend to employ tree-based methods and random forests to enhance the model's predictive accuracy. The study aims to offer actionable insights for both borrowers and investors upon completion.
 - **Technologies Used**: R
-- **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/4630%20Milestone%203.pdf)**
+- **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/STAT 4630 Final Report.pdf)**
 
-- We employed regression analysis, including shrinkage methods (ridge and lasso regression) and tree-based methods (regression trees and random forests), to analyze a dataset from LendingClub. Our findings emphasized the significance of FICO scores in determining interest rates and the importance of various financial factors in predicting loan approval. This comprehensive study enhanced our understanding of financial risk assessment and predictive modeling in the lending industry.
-- **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/4630%20Milestone%204.pdf)**
+### STAT 4996 Capstone
+- **Description**: 
+Our group project is currently in progress and aims to identify the key financial factors affecting a borrower's eligibility to meet LendingClub.com's credit underwriting criteria. Utilizing logistic regression and linear discriminant analysis, we have found that FICO credit score, among other variables, is a significant predictor. Our improved logistic regression model has shown promising results with an AUC of 0.921. However, some variables like 'dti' and 'delinq.2yrs' have yielded unexpected outcomes, which we plan to investigate further. As the next steps in our analysis, we intend to employ tree-based methods and random forests to enhance the model's predictive accuracy. The study aims to offer actionable insights for both borrowers and investors upon completion.
+- **Technologies Used**: R
+- **[PDF Report](https://github.com/JiayiNiu2023/Undergraduate_Projects/blob/main/Statistics_Project/Capstone_Technical_Deliverable.pdf)**
 
 ## Copyright Notice
 
